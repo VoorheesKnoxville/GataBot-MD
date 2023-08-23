@@ -367,8 +367,8 @@ let menuB = `╭┄〔 *${wm}* 〕┄⊱
 ∘ _${usedPrefix}manco *nombre : @tag*_
 ∘ _${usedPrefix}pajero *nombre : @tag*_
 ∘ _${usedPrefix}pajera *nombre : @tag*_
-∘ _${usedPrefix}puto *nombre : @tag*_
-∘ _${usedPrefix}puta *nombre : @tag*_
+∘ _${usedPrefix}Safado *nome : @tag*_
+∘ _${usedPrefix}Safada *nome : @tag*_
 ∘ _${usedPrefix}rata *nombre : @tag*_
 ∘ _${usedPrefix}love *nombre : @tag*_
 ∘ _${usedPrefix}doxear *nombre : @tag*_
